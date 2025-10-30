@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hey, I’m Jahaziel Ramos
 
-<!--
-**itsjahaziel/itsjahaziel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer | ⚡ AI Enthusiast | 🎮 Content Creator
 
-Here are some ideas to get you started:
+I love building cool stuff — from smart AI agents 🤖 to sleek web & mobile apps 🌐📱.
+Always learning, always creating 💡✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⸻
+
+⚙️ Tech I Use
+
+🟨 JavaScript | ⚛️ React | 🐍 Python | 🌱 Node.js | 🧠 AI
+
+⸻
+
+🌍 Connect With Me
+
+💼 LinkedIn￼https://www.linkedin.com/in/jahazielramos/
+📂 Portafolio https://jahazielramosportafolio.vercel.app/
+✉️ jahazielramos1@outlook.com
