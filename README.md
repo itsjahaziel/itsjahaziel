@@ -15,6 +15,6 @@ Always learning, always creating 💡✨
 
 🌍 Connect With Me
 
-💼 LinkedIn￼https://www.linkedin.com/in/jahazielramos/
-📂 Portafolio https://jahazielramosportafolio.vercel.app/
+💼 LinkedIn:￼https://www.linkedin.com/in/jahazielramos/
+📂 Portafolio: https://jahazielramosportafolio.vercel.app/
 ✉️ jahazielramos1@outlook.com
